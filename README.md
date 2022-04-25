@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Angular, React.js and some corporate Java skills for my job **
 
 - 👨‍💻 All of my project videos are available in youtube [https://www.youtube.com/channel/UCkr6FiLes5fGUWKnav0wJQQ](https://www.youtube.com/channel/UCkr6FiLes5fGUWKnav0wJQQ)
+- I will also update my future projects in youtube in the coming days!!
 
 - 📝 I occasionally write articles on [https://medium.com/@syedmustaqahmed5](https://medium.com/@syedmustaqahmed5)
 
