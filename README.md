@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **syedmustaqahmed5@gmail.com**
 
-- 📄 Know about my experiences [in my LinkedIn Profile](in my LinkedIn Profile)
+- 📄 Know about my experiences in my LinkedIn Profile
 
 - ⚡ Fun fact **I think am funny**
 
