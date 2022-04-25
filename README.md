@@ -5,22 +5,29 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustaqahamed" alt="mustaqahamed" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, React.js and some corporate Java skills for my job **
+- 🌱 I’m currently learning **Angular, React.js**
 
 - 👨‍💻 All of my project videos are available in youtube [https://www.youtube.com/channel/UCkr6FiLes5fGUWKnav0wJQQ](https://www.youtube.com/channel/UCkr6FiLes5fGUWKnav0wJQQ)
-- I will also update my future projects in youtube in the coming days!!
 
 - 📝 I occasionally write articles on [https://medium.com/@syedmustaqahmed5](https://medium.com/@syedmustaqahmed5)
+
+- I will keep updating my projects in my youtube channel, do check it out!!
 
 - 💬 Ask me about **C,C++,Java,Python**
 
 - 📫 How to reach me **syedmustaqahmed5@gmail.com**
+
+- 📄 Know about my experiences [in my LinkedIn Profile](in my LinkedIn Profile)
 
 - ⚡ Fun fact **I think am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/syed-mustaq-ahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syed-mustaq-ahamed" height="30" width="40" /></a>
+<a href="https://fb.com/facebook.com/syed.mustaq.ahamed.007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/syed.mustaq.ahamed.007" height="30" width="40" /></a>
+<a href="https://instagram.com/syed_mustaq_ahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syed_mustaq_ahamed" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/syed mustaq ahamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="syed mustaq ahamed" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@syedmustaqahmed5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@syedmustaqahmed5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
