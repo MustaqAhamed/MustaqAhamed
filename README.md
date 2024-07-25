@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular, React.js**
 
-- 👨‍💻 All of my project videos are available in youtube [https://www.youtube.com/channel/UCkr6FiLes5fGUWKnav0wJQQ](https://www.youtube.com/channel/UCkr6FiLes5fGUWKnav0wJQQ)
+- 👨‍💻 All of my project videos are available on youtube [https://www.youtube.com/channel/UCkr6FiLes5fGUWKnav0wJQQ](https://www.youtube.com/channel/UCkr6FiLes5fGUWKnav0wJQQ)
 
 - 📝 I occasionally write articles on [https://medium.com/@syedmustaqahmed5](https://medium.com/@syedmustaqahmed5)
 
@@ -19,6 +19,7 @@
 
 - ⚡ Fun fact **I think am funny**
 
+- I play Clash of Clans**#2C9UCYJQ0** when I am bored
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/syed_mustaq_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syed_mustaq_" height="30" width="40" /></a>
