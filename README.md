@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustaqahamed" alt="mustaqahamed" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, React.js**
+- 🌱 I’m currently learning **React.js and Selenium**
 
 - 👨‍💻 All of my project videos are available on YouTube [https://www.youtube.com/channel/UCkr6FiLes5fGUWKnav0wJQQ](https://www.youtube.com/channel/UCkr6FiLes5fGUWKnav0wJQQ)
 
